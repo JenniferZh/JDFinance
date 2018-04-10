@@ -9,6 +9,7 @@
         </router-link>
       </div>
     </section>
+  
   </article>
 </template>
 
